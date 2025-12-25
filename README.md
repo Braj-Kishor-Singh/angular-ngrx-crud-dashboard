@@ -4,18 +4,6 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 This project demonstrates CRUD operations using Angular Material tables with pagination and sorting, reactive forms, and state management with NgRx, while leveraging the Signal concept for reactive programming.
 
-# Angular Material
-ng add @angular/material
-
-# Toastr notifications
-npm i ngx-toastr
-
-# NgRx state management
-ng add @ngrx/store
-ng add @ngrx/effects
-ng add @ngrx/store-devtools
-
-
 ## Prerequisites
 
 Before starting, make sure you have **Node.js** and **Angular CLI** installed.
@@ -43,6 +31,20 @@ ng serve
 ```
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+
+# Angular Material
+ng add @angular/material
+
+# Toastr notifications
+npm i ngx-toastr
+
+# NgRx state management
+ng add @ngrx/store
+
+ng add @ngrx/effects
+
+ng add @ngrx/store-devtools
+
 
 ## Code scaffolding
 
