@@ -1,0 +1,18 @@
+.mdc-card {
+    margin: 2%;
+}
+
+table {
+    width: 100%;
+}
+
+.mdc-button {
+    margin: 2px;
+}
+
+mat-card-header {
+    margin-bottom: 16px;
+}
+td.mat-cell button {
+  margin-right: 8px; 
+}

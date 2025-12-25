@@ -1,0 +1,60 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Braj",
+      "doj": "2026-02-01T18:30:00.000Z",
+      "role": "manager",
+      "salary": "1000000"
+    },
+    {
+      "id": "2",
+      "name": "Kishor",
+      "doj": "2025-12-17T18:30:00.000Z",
+      "role": "lead",
+      "salary": "2000"
+    },
+    {
+      "id": "3",
+      "name": "Rakesh22",
+      "doj": "2025-12-01T18:30:00.000Z",
+      "role": "lead",
+      "salary": "4000"
+    },
+    {
+      "id": "4",
+      "name": "Ravi kumar",
+      "doj": "2025-12-25T06:13:16.177Z",
+      "role": "lead",
+      "salary": "200"
+    },
+    {
+      "id": "5",
+      "name": "Rajesh kumar",
+      "doj": "2025-12-10T18:30:00.000Z",
+      "role": "manager",
+      "salary": "122"
+    },
+    {
+      "id": "6",
+      "name": "Shikha",
+      "doj": "2025-12-25T09:29:13.313Z",
+      "role": "manager",
+      "salary": "2000"
+    },
+    {
+      "id": "9",
+      "name": "Hira lal",
+      "doj": "2025-12-25T13:39:42.475Z",
+      "role": "manager",
+      "salary": "333"
+    },
+    {
+      "id": 66,
+      "name": "kakakaka",
+      "doj": "2025-12-25T13:49:45.948Z",
+      "role": "manager",
+      "salary": "20"
+    }
+  ]
+}
